@@ -10,7 +10,7 @@ Stability:           experimental
 
 Library
   HS-Source-Dirs:    src
-  Build-Depends:     base >= 4, mtl
+  Build-Depends:     base >= 4, monads-fd
   Exposed-Modules:   Database.RelationalAlgebra.Record
                      Database.RelationalAlgebra.Expression
                      Database.RelationalAlgebra.Query
